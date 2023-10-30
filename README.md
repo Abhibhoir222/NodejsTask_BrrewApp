@@ -35,7 +35,7 @@ JSON
 <hr>
 
 DELETE
-Book Details Delete
+Book Details Delete <br>
 URL- http://localhost:5000/api/bookdetails-delete/:id
 
 <br>
