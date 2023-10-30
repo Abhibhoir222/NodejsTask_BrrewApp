@@ -38,4 +38,10 @@ Book Details Delete
 URL- http://localhost:5000/api/bookdetails-delete/:id
 
 
+---------------- ALL ENDPOINTS--------------------------
+
+Add book details: http://localhost:5000/api//bookdetails-add
+List of all books: http://localhost:5000/api/boodetails-getAll
+Update book details: http://localhost:5000/api/bookdetails-update/:id
+Delete book: http://localhost:5000/api/bookdetails-delete/:id
 
