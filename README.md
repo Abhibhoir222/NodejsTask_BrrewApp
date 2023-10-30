@@ -33,11 +33,12 @@ JSON
     "title":"Half Girlfriend"
 }
 <hr>
+
 DELETE
 Book Details Delete
 URL- http://localhost:5000/api/bookdetails-delete/:id
 
-
+======================================================
 ---------------- ALL ENDPOINTS--------------------------
 
 Add book details: http://localhost:5000/api//bookdetails-add <br>
