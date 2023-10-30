@@ -15,11 +15,11 @@ JSON
     "summary":"Base on Love story"
 }
 
-
+<hr>
 GET
 Book Details get All
 URL- http://localhost:5000/api/boodetails-getAll
-
+<hr>
 
 POST
 Book Details Update
@@ -32,7 +32,7 @@ JSON
 {
     "title":"Half Girlfriend"
 }
-
+<hr>
 DELETE
 Book Details Delete
 URL- http://localhost:5000/api/bookdetails-delete/:id
