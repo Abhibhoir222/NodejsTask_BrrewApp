@@ -39,7 +39,7 @@ exports.bookDetilsAllGet = async (req, res, next) => {
       });
     } catch (error) {
       console.log(error);
-      return  next(new ErrorResponce("Error in fetching users", 500));
+      return  next(new ErrorResponce("Error in fetching Books", 500));
     }
   };
 
