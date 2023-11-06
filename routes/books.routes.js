@@ -11,7 +11,7 @@ router.get('/boodetails-getAll',bookDetilsAllGet)
 
 
 //Todo Update Book Details Path
-router.post('/bookdetails-update/:id',bookDetailsUpdate)
+router.put('/bookdetails-update/:id',bookDetailsUpdate)
 
 //! Book Delete path
 router.delete('/bookdetails-delete/:id',bookdetailsDelete)
