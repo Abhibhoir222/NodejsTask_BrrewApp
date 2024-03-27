@@ -13,7 +13,7 @@ const booksSchema = new mongoose.Schema({
         maxlengh:20
     },
     summary:{
-        type:String,
+        type:[String],
         requried:[true,"Please enter the Book Summary"],
         maxlengh:20
     }
